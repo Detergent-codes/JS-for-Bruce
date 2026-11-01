@@ -1,6 +1,6 @@
 # 🚀 CYBER STRIKE 2099 (v1.0)
 
-Want my custom firmware for a custom bruce device? Check out [Bruce-ESP32-C5-TFT-Without-Touch](https://github.com/Detergent-codes/Bruce-ESP32-C5-TFT-Without-Touch)
+Want my custom firmware for a custom bruce device? Check out [Bruce-ESP32-C5-TFT-Without-Touch!](https://github.com/Detergent-codes/Bruce-ESP32-C5-TFT-Without-Touch)
 
 > **Futuristic Synthwave Arcade Shooter & Combat Runner for Bruce**  
 > Custom built for the **Bruce JS Interpreter (`mquickjs`)** and engineered for 3-Button Navigation on **ESP32-C5-TFT** and Bruce-supported handhelds.
